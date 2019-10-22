@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.paypal.me/daattali">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+    <img src="https://media.gipy.com/media/Kx3DjrusAd63y3nq/giff />
   </a>
 </p>
 
