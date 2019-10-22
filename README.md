@@ -11,11 +11,6 @@
 
 **If you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
 
-<p align="center">
-  <a href="https://www.paypal.me/daattali">
-    <img src="https://media.gipy.com/media/Kx3DjrusAd63y3nq/giff />
-  </a>
-</p>
 
 ### Table of contents
 
